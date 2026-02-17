@@ -61,12 +61,6 @@ L'exécution de cette série de scripts a permis d'approfondir la maîtrise de :
 
 **Data Analyst Polyvalent** : Fort d'une expérience solide en **marketing digital** et d'une expertise reconnue en **performance web**, je suis spécialisé dans la segmentation et l'analyse de données transactionnelles. Ce projet illustre ma capacité à gérer des bases de données structurées et à les exploiter par l'analyse statistique et l'automatisation.
 
-### Recherche d'Opportunités
-
-Je suis activement à la recherche d'un **Contrat à Durée Indéterminée (CDI)** en tant que **Data Analyst**.
-
-Mon profil hybride et ma rigueur sont particulièrement recherchés par les organisations. Je porte un intérêt marqué pour l'application de mes compétences analytiques dans les secteurs de la **Finance (Fintech)** et de la **Santé (Pharma)**.
-
 **Contactez-moi :**
 * **Nom :** Adlane BEY
 * **LinkedIn :** Adlane BEY
