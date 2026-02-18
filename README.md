@@ -56,14 +56,4 @@ L'exécution de cette série de scripts a permis d'approfondir la maîtrise de :
 * Logiques conditionnelles (`CASE WHEN`) pour la catégorisation et l'évaluation de la performance.
 
 ---
-
-## 4. 👤 🌟 **À Propos de Adlane BEY**
-
-**Data Analyst Polyvalent** : Fort d'une expérience solide en **marketing digital** et d'une expertise reconnue en **performance web**, je suis spécialisé dans la segmentation et l'analyse de données transactionnelles. Ce projet illustre ma capacité à gérer des bases de données structurées et à les exploiter par l'analyse statistique et l'automatisation.
-
-**Contactez-moi :**
-* **Nom :** Adlane BEY
-* **LinkedIn :** Adlane BEY
-* **Email :** Adlane.bey@outlook.com
----
 ---
